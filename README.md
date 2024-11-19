@@ -1,2 +1,2 @@
 # Images
-In this project I fetched images by making a JSON file and fetched details of images.
+In this project, I fetched images and their details by using a JSON file to dynamically load content.
