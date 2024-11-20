@@ -42,7 +42,7 @@ function CoolImages() {
 CoolImages();
 
 function Subscribe() {
-    location.href="http://127.0.0.1:5500/Subsrcibe/Subscribe.html"
+    location.href="http://127.0.0.1:5500/Subscribe.html"
 }
 
 button.addEventListener("click", Subscribe)
