@@ -1,4 +1,4 @@
-import Images from 'https://raw.githubusercontent.com/IshitSorathiya/Images/refs/heads/main/images.json' assert { type: 'json' }
+import Images from './images.json' assert { type: 'json' }
 
 const result = document.getElementById("result");
 const button = document.querySelector(".button");
